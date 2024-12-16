@@ -1,0 +1,16 @@
+.header {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo {
+    width: 100px;
+    height: auto;
+  }
+  
+  .app-title {
+    font-family: 'Reem Kufi', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
